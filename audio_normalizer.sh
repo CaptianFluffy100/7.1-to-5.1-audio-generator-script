@@ -4,8 +4,8 @@
 # Processes all videos under /mnt/media/video recursively
 #
 # Usage:
-#   chmod +x convert_71_to_51.sh
-#   ./convert_71_to_51.sh
+#   chmod +x audio_normalizer.sh
+#   ./audio_normalizer.sh
 #
 # Requirements:
 #   - ffmpeg and ffprobe must be installed
